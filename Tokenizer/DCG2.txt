@@ -1,0 +1,7 @@
+ sentence -> noun_phrase(det) , verb_phrase. 
+ verb_phrase -> verb , noun_phrase(object). 
+ noun_phrase(det) -> [ el ]. 
+ noun_phrase(det) -> [ con ]. 
+ noun_phrase(object) -> [ presidente ]. 
+ noun_phrase(object) -> [ alcalde ]. 
+ verb -> [ habla ].

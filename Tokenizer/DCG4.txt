@@ -1,0 +1,8 @@
+ sentence -> noun_phrase(det) , verb_phrase. 
+ verb_phrase -> verb , noun_phrase(object). 
+ noun_phrase(det) -> [los]. 
+ noun_phrase(det) -> [se]. 
+ noun_phrase(object) -> [ recursos ]. 
+ verb -> [agotan].
+
+ 

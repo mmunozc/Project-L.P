@@ -1,0 +1,8 @@
+ sentence -> noun_phrase(det) , verb_phrase. 
+ verb_phrase -> verb , noun_phrase(object). 
+ noun_phrase(det) -> [ a ]. 
+ noun_phrase(object) -> [ Zidane ]. 
+ noun_phrase(object) -> [  Real Madrid  ]. 
+ verb -> [ deja ].
+
+

@@ -1,0 +1,10 @@
+ sentence -> noun_phrase(det) , verb_phrase. 
+ verb_phrase -> verb , noun_phrase(object). 
+ noun_phrase(det) -> [ el ]. 
+ noun_phrase(det) -> [ al ]. 
+ noun_phrase(object) -> [ uniformado ]. 
+ noun_phrase(object) -> [ civil ]. 
+ verb -> [mata].
+
+
+ 
